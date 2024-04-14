@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Vink Bookmarks",
+  "version": "1.0",
+  "description": "Bookmark side panel for personal use.",
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "permissions": ["sidePanel"]
+}
